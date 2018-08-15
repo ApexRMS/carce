@@ -1,8 +1,7 @@
-﻿'*****************************************************************************************
-' Caribou Cumulative Effects: A .NET library for simulating caribou populations
+﻿'******************************************************************************************************
+' CCE: A SyncroSim Module for simulating cumulative impacts of multiple factors on caribou populations.
 '
-' Copyright © 2009-2015 ApexRMS.
-'
-'*****************************************************************************************
+' Copyright © 2007-2018 Apex Resource Management Solution Ltd. (ApexRMS). All rights reserved.
+'******************************************************************************************************
 
 <Assembly: CLSCompliant(True)> 
