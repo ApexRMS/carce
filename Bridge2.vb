@@ -35,7 +35,7 @@ Class Bridge2
             dr("CalfAdjustmentFactor") Is DBNull.Value OrElse
             dr("CalfAgeClass") Is DBNull.Value) Then
 
-            Me.ResultScenario.RecordStatus(StatusType.Warning,
+            Me.ResultScenario.RecordStatus(StatusType.Information,
                 "Not running Transformer because the configuration is incomplete.")
 
             Return
