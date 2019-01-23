@@ -1,2 +1,2 @@
-# carep
-A SyncroSim Package for the Caribou Energy Protein Model.
+# carce
+A SyncroSim Package for simulating cumulative impacts of multiple factors on caribou populations.
