@@ -1,2 +1,2 @@
 # carce
-A SyncroSim Package for simulating cumulative impacts of multiple factors on caribou populations.
+SyncroSim Base Package for simulating the cumulative effects of development and climate change on caribou.
