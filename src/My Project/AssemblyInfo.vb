@@ -1,4 +1,5 @@
-﻿Imports System
+﻿Imports System.Resources
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -8,17 +9,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("SyncroSim.CaribouCumulativeEffects")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyTitle("SyncroSim.CaribouCumulativeEffects")>
+<Assembly: AssemblyDescription("Caribou Cumulative Effects")>
+<Assembly: AssemblyCompany("ApexRMS")>
 <Assembly: AssemblyProduct("SyncroSim.CaribouCumulativeEffects")>
-<Assembly: AssemblyCopyright("Copyright ©  2019")>
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyCopyright("Copyright © 2007-2019 Apex Resource Management Solution Ltd. (ApexRMS). All rights reserved.")>
+<Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("d39d4abc-0276-4789-9e4d-3023ce491002")> 
+<Assembly: Guid("d39d4abc-0276-4789-9e4d-3023ce491002")>
 
 ' Version information for an assembly consists of the following four values:
 '
@@ -31,5 +32,6 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.13.0")> 
-<Assembly: AssemblyFileVersion("1.0.13.0")> 
+<Assembly: AssemblyVersion("1.0.13.0")>
+<Assembly: AssemblyFileVersion("1.0.13.0")>
+<Assembly: NeutralResourcesLanguage("en-US")>
