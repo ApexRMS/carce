@@ -18,7 +18,7 @@ These instructions are for the [most recent full release of carce (1.0.12)](http
 
 3. Open SyncroSim: **Start | Programs | SyncroSim**
 
-4. Install the following SyncroSim Packages (in this order): carep, carmove, dgsim, carce. **Note **to install a package in SyncroSim go to **File | Packages | Add...** and point to the *ssimpkg* file you downloaded in step 2.
+4. Install the following SyncroSim Packages (in this order): carep, carmove, dgsim, carce. **Note ** to install a package in SyncroSim go to **File | Packages | Add...** and point to the *ssimpkg* file you downloaded in step 2.
 
 5. To open a carce SyncroSim library go to: **File | Open Library...** and point to the appropriate *.ssim file.  
 
