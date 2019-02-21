@@ -12,7 +12,7 @@ Learn more at http://www.apexrms.com/caribou-simulation-model/.
 
 These instructions are for the [most recent full release of carce (1.0.12)](https://github.com/ApexRMS/carce/releases)
 
-1. Install [SyncroSim][www.syncrosim.com/downld] for Windows version 2.0.42
+1. Install [SyncroSim](www.syncrosim.com/downld) for Windows version 2.0.42
 
 2. Download the following [SyncroSim Packages](www.syncrosim.com/packages): carep (2.1.40), carmove (1.0.12), dgsim (2.1.39), carce (1.0.12) 
 
