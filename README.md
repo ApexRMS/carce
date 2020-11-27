@@ -2,7 +2,7 @@
 
 SyncroSim Base Package for simulating the cumulative effects of development and climate change on caribou.
 
-Learn more at http://www.apexrms.com/caribou-simulation-model/.
+Learn more at http://www.apexrms.com/cce-barren-ground-caribou/.
 
 [![carce Video](https://img.youtube.com/vi/eYjAEqdovJM/0.jpg)](https://www.youtube.com/watch?v=eYjAEqdovJM "Overview of carce")
 
