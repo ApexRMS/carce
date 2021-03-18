@@ -15,7 +15,7 @@ permalink: /
 
 Learn more at http://www.apexrms.com/cce-barren-ground-caribou/.
 
-<img align="right" style="padding: 15px" width="400" src="assets/images/video-screencap.png">
+<img align="left" style="padding: 15px" width="400" src="assets/images/video-screencap.png">
 
 ## Requirements
 
