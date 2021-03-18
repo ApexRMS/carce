@@ -9,11 +9,13 @@ permalink: /
 <img align="right" style="padding: 13px" width="180" src="assets/images/logo/carce-sticker.png">
 [![GitHub release](https://img.shields.io/github/v/release/ApexRMS/carce.svg?style=for-the-badge&color=d68a06)](https://GitHub.com/ApexRMS/carce/releases/)    <a href="https://github.com/ApexRMS/carce"><img align="middle" style="padding: 1px" width="30" src="assets/images/logo/github-trans2.png">
 <br>
-## A one-line description of what the package is
+## Evaluating the effects of multiple stressors on caribou
 ### *Carce* is an open-source SyncroSim Base Package for simulating the cumulative effects of development and climate change on caribou.
 
 
-Body text: Description of package to go here. Approximately 1 to 2 paragraphs.
+Learn more at http://www.apexrms.com/cce-barren-ground-caribou/.
+
+<img align="right" style="padding: 15px" width="400" src="assets/images/video-screencap.png">
 
 ## Requirements
 
