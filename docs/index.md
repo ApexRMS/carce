@@ -15,9 +15,8 @@ permalink: /
 
 Learn more at http://www.apexrms.com/cce-barren-ground-caribou/.
 
-<img align="center" style="padding: 15px" width="400" src="assets/images/video-screencap.png">
-<br>
-<br>
+<img align="right" style="padding: 15px" width="400" src="assets/images/video-screencap.png">
+
 ## Requirements
 
 This package requires SyncroSim [Insert_version_here](https://syncrosim.com/download/).
