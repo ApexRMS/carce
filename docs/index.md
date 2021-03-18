@@ -13,17 +13,17 @@ permalink: /
 ### *Carce* is an open-source SyncroSim Base Package for simulating the cumulative effects of development and climate change on caribou.
 
 
-Learn more at http://www.apexrms.com/cce-barren-ground-caribou/.
+Learn more at [http://www.apexrms.com/cce-barren-ground-caribou/](http://www.apexrms.com/cce-barren-ground-caribou/)
 
 <img align="right" style="padding: 15px" width="400" src="assets/images/video-screencap.png">
 
 ## Requirements
 
-This package requires SyncroSim [Insert_version_here](https://syncrosim.com/download/).
+This package requires SyncroSim [Insert_version_here](https://syncrosim.com/download/)
 
 ## Links
 
-For information on How to Install, see [Getting Started](https://apexrms.github.io/carce/getting_started.html).
+For information on How to Install, see [Getting Started](https://apexrms.github.io/carce/getting_started.html)
 <br>
 Browse source code at
 [http://github.com/ApexRMS/carce/](http://github.com/ApexRMS/carce/)
