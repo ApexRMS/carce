@@ -19,7 +19,7 @@ To learn more about the **Carce** package, visit [http://www.apexrms.com/cce-bar
 
 ## Requirements
 
-This package requires SyncroSim [Insert_version_here](https://syncrosim.com/download/)
+This package requires SyncroSim [version 2.0.42](https://syncrosim.com/download/)
 
 ## Links
 
