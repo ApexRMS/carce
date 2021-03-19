@@ -15,7 +15,7 @@ permalink: /
 
 To learn more about the **Carce** package, visit [http://www.apexrms.com/cce-barren-ground-caribou/](http://www.apexrms.com/cce-barren-ground-caribou/)
 
-<img align="right" style="padding: 15px" width="400" src="assets/images/video-screencap.png">
+<a href="http://www.youtube.com/watch?v=eYjAEqdovJM" target="_blank"><img src="assets/images/video-screencap.png" alt="Caribou Cumulative Effects Overview" align="right" style="padding: 15px" width="400" /></a>
 
 ## Requirements
 
