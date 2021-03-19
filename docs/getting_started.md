@@ -26,3 +26,11 @@ These instructions are for the [most recent full release of carce (1.0.12)](http
    ```
    SET OSGEO4W_ROOT=C:\Program Files\QGIS Chugiak
    ```
+
+   If this is not the root installation for QGIS 2.4.0 on your system, change this line to point to the root installation. Also confirm that inside the root installation there is a file inside the ***bin*** directory called ***o4w_env.bat***. If this file is not located here, find its location and change the second line in the batch file from:
+
+   ```
+   CALL "%OSGEO4W_ROOT%\bin\o4w_env.bat"
+   ```
+
+   to point to the correct location of the ***o4w_env.bat*** file.
