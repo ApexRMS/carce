@@ -21,10 +21,12 @@ To learn more about the **Carce** package, visit [http://www.apexrms.com/cce-bar
 
 This package requires SyncroSim [version 2.0.42](https://syncrosim.com/download/)
 
+## How to Install
+
+For more information on **Carce**, including how to install, see the [Getting Started](https://apexrms.github.io/carce/getting_started.html) page.
+
 ## Links
 
-For information on How to Install, see [Getting Started](https://apexrms.github.io/carce/getting_started.html)
-<br>
 Browse source code at
 [http://github.com/ApexRMS/carce/](http://github.com/ApexRMS/carce/)
 <br>
@@ -33,8 +35,14 @@ Report a bug at
 
 ## Developers
 
-Developer_Name (Author, maintainer)
+Leonardo Frid (Author, maintainer) <a href="https://orcid.org/0000-0002-5489-2337"><img align="middle" style="padding: 0.5px" width="17" src="assets/images/ORCID.png"></a>
 <br>
-Developer_Name (Author) <a href="https://orcid.org/Enter_Your_Link_Here"><img align="middle" style="padding: 0.5px" width="17" src="assets/images/ORCID.png"></a>
+Colin Daniel (Author)
 <br>
-Developer_Name (Author)
+Alex Embrey (Author)
+<br>
+Tom Roe (Author)
+<br>
+Robert White (Author)
+<br>
+Don Russell (Author)
