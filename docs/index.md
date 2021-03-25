@@ -14,9 +14,10 @@ permalink: /
 
 The **Carce** package contains a built-in stochastic multi-model framework for forecasting the cumulative effects of stressors on barren-ground caribou herds. This framework is referred to as the **Caribou Cumulative Effects (CCE)** modeling framework. Built upon the [SyncroSim](https://syncrosim.com/) software platform, the **CCE** framework has been developed to better inform caribou management decisions in the face of future uncertainties. The **CCE** model accounts for stressors to ungulates including land disturbance, environmental conditions, harvest and natural mortality. These stressors are integrated into several interconnected submodels; a Vegetation/Land Use Change submodel, which forecasts changes in vegetation and land use across a herd’s range over space and time; a Caribou Movement submodel, which projects daily movement of individual caribou across the study area based on historical data; a Body Condition submodel, which projects the body condition of an individual caribou cow (and its newborn calf) as it moves across the range over the course of a single year; and finally, a Population submodel, adapted from the [DG-Sim](https://apexrms.github.io/dgsim/) stochastic population model, which operates on an annual time step, projecting the total size of the herd’s population (by sex and age) each year as a function of the current population size, birth rates, natural mortality rates, and harvest levels.
 
+<a href="http://www.youtube.com/watch?v=eYjAEqdovJM" target="_blank"><img src="assets/images/video-screencap.png" alt="Caribou Cumulative Effects Overview" align="right" style="padding: 15px" width="400" /></a>
+
 To learn more about the **Carce** package and the **CCE** modeling framework, visit [http://www.apexrms.com/cce-barren-ground-caribou/](http://www.apexrms.com/cce-barren-ground-caribou/)
 
-<a href="http://www.youtube.com/watch?v=eYjAEqdovJM" target="_blank"><img src="assets/images/video-screencap.png" alt="Caribou Cumulative Effects Overview" align="right" style="padding: 15px" width="400" /></a>
 
 ## Requirements
 
